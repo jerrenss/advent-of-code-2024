@@ -20,4 +20,4 @@ def solution(fileName: str) -> int:
 
     return result
 
-print(solution("./part1-input.txt"))
+print(solution("./input.txt"))
