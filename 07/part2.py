@@ -3,7 +3,7 @@ from itertools import product
 
 def solution(file_name: str) -> int:
     """
-    main driver function
+    driver function
     """
     result = 0
 
